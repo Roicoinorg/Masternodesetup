@@ -1,0 +1,22 @@
+# MasternodeSetup
+
+### Required:
+
+1. Coins for Collateral <br>
+
+2. Download Local Wallet for your operating system: : https://github.com/Roicoinorg/Roicoinorg/releases/tag/1000
+
+
+3. You will need also VPS with Ubuntu 16.04 or 18.04 or 20.04
+
+**VPS WALLET:**
+
+To install mnsc Masternode use the following command:
+
+`bash <( curl -sL https://raw.githubusercontent.com/Roicoinorg/Masternodesetup/master/masternode-install.sh)
+
+- Enjoy
+
+check your masternode status using `roicoin-cli getmasternodestatus` after run it from local wallet
+
+
